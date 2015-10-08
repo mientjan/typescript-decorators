@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"outDir": "dist",
+		"module": "amd",
+		"declaration": true,
+		"noImplicitAny": true,
+		"removeComments": true,
+		"sourceMap": true
+	},
+	"files": [
+		"src/Decorator.ts"
+	]
+}

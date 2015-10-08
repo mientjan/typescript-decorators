@@ -1,0 +1,27 @@
+{
+  "name": "typescript-decorators",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mientjan/typescript-decorators",
+  "authors": [
+    "Mient - jan Stelling <mient-jan@mediamonks.com>"
+  ],
+  "description": "A collection of typescript decorators.",
+  "main": "src/Decorators.ts",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "decorators",
+    "typescript",
+    "ts",
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
